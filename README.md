@@ -3,6 +3,10 @@
   Edita los textos entre | en la URL de typing-svg para cambiar los subtítulos animados.
 -->
 
+<p align="center">
+  <img src="banner-disenos.png" width="100%" alt="DISE-OS">
+</p>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:172A3A,100:1D6B68&height=190&section=header&text=ERIK%20PARDO&fontSize=52&fontColor=EAF4F4&fontAlignY=38&desc=GAME%20DESIGN%20%2F%20CREATIVE%20DEVELOPMENT&descAlignY=60&descSize=15" />
